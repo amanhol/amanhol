@@ -1,6 +1,7 @@
-<div align="center">
-    <h1>Amanda Holsteinson | Big Data & AI Enthusiast </h1>
-</div>
+
+<h1 align="center">Hi 👋,  I'm Amanda  </h1>
+<h3 align="center">Big Data & AI Enthusiast </h3>
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/amanda-holsteinson-heinsen/" target="_blank">
