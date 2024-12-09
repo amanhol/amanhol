@@ -10,13 +10,26 @@
 
 
 
-## About Me
+## 🚀 About Me
 
-I'm a passionate Big Data and Business Analytics master's student with a keen interest in leveraging data to drive business insights and decisions. While I may be at the beginning of my career journey, I'm eager to learn and grow in the field of data analytics.
+I’m a tech-savvy product strategist and data science enthusiast passionate about creating data-driven solutions that drive business growth and user satisfaction. With experience in product development, market strategy, and business analytics, I blend technical expertise with strategic thinking to build impactful products.
 
-- I’m currently learning advanced techniques in data analysis, machine learning, and business intelligence.
-- I’m looking to collaborate on data-driven projects and internships.
-- Ask me about data visualization, basic machine learning, and business analytics.
+- 💡 **Currently:** Pursuing a Master’s in Data Science & Business Analytics with a focus on AI and Product Strategy.  
+- 🧠 **Learning:** Advanced data analytics, machine learning, and AI best practices.  
+- 🤝 **Collaborating On:** Data-driven product development and business intelligence projects.  
+- 💬 **Ask Me About:** Product strategy, data analytics, UX design, and business growth.  
+
+---
+
+## 🎯 Goals  
+
+- Build data-driven products that create real-world impact.  
+- Lead product strategy roles in tech-focused companies.  
+- Collaborate with diverse teams to build innovative solutions.  
+
+---
+
+Feel free to connect or reach out for collaboration! 😊
 
 ## 🛠️ My Skills
 
