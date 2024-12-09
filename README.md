@@ -19,15 +19,12 @@ I’m a tech-savvy product strategist and data science enthusiast passionate abo
 - 🤝 **Collaborating On:** Data-driven product development and business intelligence projects.  
 - 💬 **Ask Me About:** Product strategy, data analytics, UX design, and business growth.  
 
----
 
 ## 🎯 Goals  
 
 - Build data-driven products that create real-world impact.  
 - Lead product strategy roles in tech-focused companies.  
 - Collaborate with diverse teams to build innovative solutions.  
-
----
 
 Feel free to connect or reach out for collaboration! 😊
 
